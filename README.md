@@ -15,8 +15,8 @@ npm install --save display-counter
 ```tsx
 import React, { Component } from 'react'
 
-import DisplayCounter from 'display-counter'
-import 'display-counter/dist/index.css'
+import DisplayCounter from 'sans-display-counter'
+import 'sans-display-counter/dist/index.css'
 
 class Example extends DisplayCounter {
   render() {
